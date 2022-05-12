@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memo-code/static/css/main.b5c3868d.chunk.css",
+    "main.js": "/memo-code/static/js/main.fb057de5.chunk.js",
+    "main.js.map": "/memo-code/static/js/main.fb057de5.chunk.js.map",
+    "runtime-main.js": "/memo-code/static/js/runtime-main.be7a2b64.js",
+    "runtime-main.js.map": "/memo-code/static/js/runtime-main.be7a2b64.js.map",
+    "static/js/2.01b6f19b.chunk.js": "/memo-code/static/js/2.01b6f19b.chunk.js",
+    "static/js/2.01b6f19b.chunk.js.map": "/memo-code/static/js/2.01b6f19b.chunk.js.map",
+    "index.html": "/memo-code/index.html",
+    "static/css/main.b5c3868d.chunk.css.map": "/memo-code/static/css/main.b5c3868d.chunk.css.map",
+    "static/js/2.01b6f19b.chunk.js.LICENSE.txt": "/memo-code/static/js/2.01b6f19b.chunk.js.LICENSE.txt",
+    "static/media/angular.52907956.png": "/memo-code/static/media/angular.52907956.png",
+    "static/media/css.c0bf8c44.png": "/memo-code/static/media/css.c0bf8c44.png",
+    "static/media/front.54d0d6fb.png": "/memo-code/static/media/front.54d0d6fb.png",
+    "static/media/html.7edd9baf.png": "/memo-code/static/media/html.7edd9baf.png",
+    "static/media/jest.37efbf74.png": "/memo-code/static/media/jest.37efbf74.png",
+    "static/media/logoGrande.52ef4521.png": "/memo-code/static/media/logoGrande.52ef4521.png",
+    "static/media/mongo.369dd398.png": "/memo-code/static/media/mongo.369dd398.png",
+    "static/media/nodejs.30ca82b0.png": "/memo-code/static/media/nodejs.30ca82b0.png",
+    "static/media/react.d1d00361.png": "/memo-code/static/media/react.d1d00361.png",
+    "static/media/vue.163c7d2f.png": "/memo-code/static/media/vue.163c7d2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7a2b64.js",
+    "static/js/2.01b6f19b.chunk.js",
+    "static/css/main.b5c3868d.chunk.css",
+    "static/js/main.fb057de5.chunk.js"
+  ]
+}
